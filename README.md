@@ -1,5 +1,11 @@
 # Point of Sale API
 
+## About
+
+Point of sale system developed for a local supermarket in Upala, Costa Rica. Built as a real-world project with full business module coverage including sales, inventory, payroll and cash register management.
+
+## Overview
+
 REST API for a point of sale system built with ASP.NET Core and Dapper. Developed as a real-world project featuring JWT authentication, stored procedures, and full business module coverage.
 
 ## Tech Stack
